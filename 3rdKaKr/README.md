@@ -6,14 +6,13 @@
 * https://www.kaggle.com/tmheo74/3rd-ml-month-car-image-cropping-updated-7-10
   - 이미지 crop 참고.
 * https://www.kaggle.com/fulrose/3rd-ml-month-car-model-classification-baseline
-  - 참고하여 ResNet50 baseline 완성
+  - 참고하여 **ResNet50** baseline 완성
 * https://www.kaggle.com/janged/3rd-ml-month-xception-stratifiedkfold-ensemble
   - image generator, callback 함수, KFold 구현 방법 참고.
 * https://www.kaggle.com/c/2019-3rd-ml-month-with-kakr/discussion/99538#latest-594363
   - 제공해주신 팁을 기반으로 metric 튜닝
   
 # STEP
-
 **1. EDA**
 - 데이터 구성, 클래스 분포 등 분석
 
