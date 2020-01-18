@@ -19,9 +19,7 @@
 * ResNet은 여러개의 residual block으로 구성.
   residual block이란 다음 그림과 같이 현재 층의 선형방정식에 이전 층의 입력 값을 더하고 이를 활성화 함수(ReLU)에 적용하는 것을 말함.
 
-
-![ResNet](../img/RB.JPG)
-
+  ![ResNet](../img/RB.JPG)
 
   * 기존에는 입력 a가 한 층을 거쳐 다음층 a2로 가기까지 
   * (선형성적용 z1 = aW+b -> 활성 a1 = g(z1)) --> (선형성적용 z2 = a1W+b -> 활성 a2 = g(z2))
