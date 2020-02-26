@@ -37,6 +37,7 @@
 
 **3. Modeling**
 - keras 'sm: segmentation model'라이브러리 사용. 해당 라이브러리로 U-net 모델을 학습할 수 있음.
+  https://github.com/qubvel/segmentation_models
 - ResNet-34를 backbone으로 사용함.(영상에서 특징을 추출하는 인코더 파트를 resnet을 사용한다는 의미같음)
 
 **4. Learning**
