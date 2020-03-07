@@ -12,7 +12,6 @@
 * text-embedding-glove.ipynb
   - simple text anlaysis.
   - tokenize and how to use GloVe in Keras.
-* Using RNN
-  - to be updated
-* Using LSTM
-  - to be updated
+* tweet-eda-cleansing-baseline-with-keras.ipynb
+  - simple EDA, Text data cleansing.
+  - baseline with GloVe, Keras.
