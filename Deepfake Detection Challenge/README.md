@@ -29,4 +29,4 @@
   * video 데이터 시각화 및 face detection 도구 사용법.
   * OpenCV Haar cascade. face recognition package, MTCNN face detector.
 * deepfake-detection-with-mtcnn-pretrain-densenet.ipynb
-  * Deepfake detection pipline.
+  * how to build a deepfake detection workflow around the Keras DenseNet.
